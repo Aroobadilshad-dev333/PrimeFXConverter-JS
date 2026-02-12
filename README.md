@@ -37,8 +37,5 @@ FlagsAPI – Country flags for selected currencies
 
 3. Enter amount, select currencies, and click Get Exchange Rate
     
-# Live Demo
-[View Site Live]( https://aroobadilshad-dev333.github.io/PrimeFXConverter-JS/)
-
 
 *Created by:* AROOBA DILSHA
